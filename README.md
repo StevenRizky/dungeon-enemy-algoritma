@@ -55,6 +55,12 @@ Apakah Player dalam jangkauan?
 
 Implementasi lengkap terdapat pada file `enemy_ai.py`.
 
+### Cara menjalankan
+
+```bash
+python enemy_ai.py
+```
+
 ## 4. Game Map
 
 ```text
@@ -66,12 +72,6 @@ y 1 | # E . . . . . #
 y 2 | # . # # # . . #
 y 3 | # . . . # P . #
 y 4 | # # # # # # # #
-```
-
-### Cara menjalankan
-
-```bash
-python enemy_ai.py
 ```
 
 ## Struktur Project
