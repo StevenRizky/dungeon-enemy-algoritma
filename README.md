@@ -1,6 +1,6 @@
 # Dungeon Enemy Algoritma
 
-Nama: Ananda Rizky Muntazar Muthahhari
+Nama: Ananda Rizky
 
 Tugas algoritma Enemy pada dungeon
 
