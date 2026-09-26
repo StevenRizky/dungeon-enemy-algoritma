@@ -20,6 +20,8 @@ BFS cocok digunakan karena dungeon pada contoh ini berbentuk grid dan setiap lan
 
 ## 2. Flowchart
 
+<img width="656" height="1015" alt="flowchart" src="https://github.com/user-attachments/assets/731674dd-11e8-4e0c-9e61-530ca8df1cea" />
+
 ```text
 START
   |
@@ -49,7 +51,6 @@ Apakah Player dalam jangkauan?
                          v
                         END
 ```
-<img width="656" height="1015" alt="flowchart" src="https://github.com/user-attachments/assets/731674dd-11e8-4e0c-9e61-530ca8df1cea" />
 
 ## 3. Code Snippet Python
 
