@@ -1,6 +1,8 @@
-# Dungeon Enemy Algorithm
+# Dungeon Enemy Algoritma
 
-Tugas algoritma Enemy AI pada dungeon.
+Nama: Ananda Rizky Muntazar Muthahhari
+
+Tugas algoritma Enemy pada dungeon.
 
 ## 1. Identifikasi Algoritma
 
